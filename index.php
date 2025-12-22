@@ -57,13 +57,13 @@
 
         
           <header class="main-issue-header">
-            <a href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_summer_2025" target="_blank">
-              <img class="cover" src="/images/covers/WMS25cover.jpg" alt="Whistler Magazine Summer 2025" />
+            <a href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_winter_2026" target="_blank">
+              <img class="cover" src="/images/covers/images/covers/WMAG-winter-2526.png" alt="Whistler Magazine Winter 2026" />
             </a>
           </header>
 
           <p><strong>Whistler Magazine</strong> is the award-winning premier publication in North America's #1 Ski Resort, hosting over 2 million visitors annually. We publish 33,000 glossy full-colour magazines twice a year.</p>
-          <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_summer_2025" target="_blank">Read The Latest Issue</a></p>
+          <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_winter_2026" target="_blank">Read The Latest Issue</a></p>
 
           <hr />
           <div class="img-wrapper">

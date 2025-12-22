@@ -88,7 +88,7 @@
             <h1>Whistler Magazine Current Issue</h1>
         </header>
         <article>
-            <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_summer_2025" target="_blank">READ THE LATEST ISSUE</a></p>
+            <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_winter_2026" target="_blank">READ THE LATEST ISSUE</a></p>
             <p><button class="button" id="toggleStoryButton">READ FOUR DECADES OF TELLING WHISTLER’S STORIES</button></p>
 
             <div id="storyContent" style="display: none;">

@@ -44,6 +44,10 @@
             <p>Click the cover to launch the issue in a new window or tab.</p>
 
             <div id="back_issues" class="flex-container">
+                 <div class="issue">
+                    <a href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_summer_2025" target="_blank"><img class="cover" src="/images/covers/WMS25cover.jpg" alt="Whistler Magazine Summer 2025" /></a>
+                    <p>Winter 2025</p>
+				</div>
             <div class="issue">
                     <a href="https://issuu.com/whistlerpublishing/docs/wm_w25_web?fr=xKAE9_zU1NQ" target="_blank"><img class="cover" src="/images/covers/WMW25cover.png" alt="Whistler Magazine Winter 2025" /></a>
                     <p>Winter 2025</p>

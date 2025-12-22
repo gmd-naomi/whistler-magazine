@@ -8,8 +8,8 @@
         </div>
     </div>
     <div class="widget advertise">
-        <a target="_blank" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_summer_2025">
-            <img class="cover" src="/images/covers/WMS25cover.jpg" alt="Whistler Magazine Summer 2025" />
+        <a target="_blank" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_winter_2026">
+            <img class="cover" src="/images/covers/WMAG-winter-2526.png" alt="Whistler Magazine Winter 2026" />
         </a>
         <h2>Advertise with<br /> Whistler Magazine</h2>
         <p><a href="media-kit.php" class="button button-style1">Contact</a></p>
