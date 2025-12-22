@@ -58,7 +58,7 @@
         
           <header class="main-issue-header">
             <a href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_winter_2026" target="_blank">
-              <img class="cover" src="/images/covers/images/covers/WMAG-winter-2526.png" alt="Whistler Magazine Winter 2026" />
+              <img class="cover" src="/images/covers/WMAG-winter-2526.png" alt="Whistler Magazine Winter 2026" />
             </a>
           </header>
 
